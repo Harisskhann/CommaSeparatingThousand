@@ -1,0 +1,15 @@
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.csproj.AssemblyReference.cache
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.GeneratedMSBuildEditorConfig.editorconfig
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.AssemblyInfoInputs.cache
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.AssemblyInfo.cs
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.csproj.CoreCompileInputs.cache
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\bin\Debug\net6.0\CommaSeparatingThousand.exe
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\bin\Debug\net6.0\CommaSeparatingThousand.deps.json
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\bin\Debug\net6.0\CommaSeparatingThousand.runtimeconfig.json
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\bin\Debug\net6.0\CommaSeparatingThousand.dll
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\bin\Debug\net6.0\CommaSeparatingThousand.pdb
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.dll
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\refint\CommaSeparatingThousand.dll
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.pdb
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\CommaSeparatingThousand.genruntimeconfig.cache
+D:\CommaSepratingThousand\CommaSepratingThousand\CommaSeparatingThousand\obj\Debug\net6.0\ref\CommaSeparatingThousand.dll
